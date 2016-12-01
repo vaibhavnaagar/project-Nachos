@@ -1,0 +1,88 @@
+01234567896789123450678961234503945107286639451072803752981466
+Tota03752981420978l1543
+
+
+
+
+ 
+
+
+
+TTTTTsTTTTooooouooootttttmttttaaaaa:aaaalllll llll     0    sssss
+ssssuuuuuSuuuummmmmtmmmm:::::a::::     r    00000t0000
+
+
+
+
+ 
+
+
+
+SSSSStSSSStttttittttaaaaamaaaarrrrrerrrrttttt:tttt          ttttt8ttttiiiii8iiiimmmmm3mmmmeeeee,eeee::::: ::::     E    31111n276583201d653179503 3951,,571t,,,,  ,,,i    EE   mEEEEnnEEEennnnddnnn:dddd  ddd     tt   7ttttiittt8iiiimmiii2mmmmeemmm6eeee::eee8::::  :::,    88    999999888T000056999o124523789t890133456a3333,,333l,,,,  ,,,     TT   tTTTTooTTTioooottooomttttaattteaaaallaaa:llll  lll     tt   7ttttiittt7iiiimmiii3mmmmeemmm8eeee::eee5::::  :::
+    88   8889998889990148889570394882360648430482
+
+862
+
+
+
+
+
+
+Yo
+Yoo
+Scheduling Algo = 3 124
+Scheduling Algo = 3 124
+[pid 0]: Exit called. Code: 0 No. of Instructions:0  Entry time:0 Exit time:110
+[pid 0]: Exit called. Maxburst:110 Minburst:0 Totalburst:110 No. of bursts:1
+[pid 0]: Exit called. Totalsleeptime:0 TotalWaitTime:0 Utilization:100
+[pid 7]: Exit called. Code: 0 No. of Instructions:8253  Entry time:70 Exit time:156067
+[pid 7]: Exit called. Maxburst:124 Minburst:0 Totalburst:9722 No. of bursts:139
+[pid 7]: Exit called. Totalsleeptime:0 TotalWaitTime:146275 Utilization:6
+[pid 3]: Exit called. Code: 0 No. of Instructions:8253  Entry time:30 Exit time:161567
+[pid 3]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 3]: Exit called. Totalsleeptime:0 TotalWaitTime:151845 Utilization:5
+[pid 1]: Exit called. Code: 0 No. of Instructions:8253  Entry time:10 Exit time:161677
+[pid 1]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 1]: Exit called. Totalsleeptime:0 TotalWaitTime:151975 Utilization:5
+[pid 2]: Exit called. Code: 0 No. of Instructions:8253  Entry time:20 Exit time:162117
+[pid 2]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 2]: Exit called. Totalsleeptime:0 TotalWaitTime:152405 Utilization:5
+[pid 6]: Exit called. Code: 0 No. of Instructions:8253  Entry time:60 Exit time:162227
+[pid 6]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 6]: Exit called. Totalsleeptime:0 TotalWaitTime:152475 Utilization:5
+[pid 5]: Exit called. Code: 0 No. of Instructions:8253  Entry time:50 Exit time:162337
+[pid 5]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 5]: Exit called. Totalsleeptime:0 TotalWaitTime:152595 Utilization:5
+[pid 4]: Exit called. Code: 0 No. of Instructions:8253  Entry time:40 Exit time:162447
+[pid 4]: Exit called. Maxburst:124 Minburst:0 Totalburst:9692 No. of bursts:140
+[pid 4]: Exit called. Totalsleeptime:0 TotalWaitTime:152715 Utilization:5
+[pid 10]: Exit called. Code: 0 No. of Instructions:8253  Entry time:100 Exit time:162557
+[pid 10]: Exit called. Maxburst:124 Minburst:0 Totalburst:9712 No. of bursts:141
+[pid 10]: Exit called. Totalsleeptime:0 TotalWaitTime:152745 Utilization:5
+[pid 8]: Exit called. Code: 0 No. of Instructions:8253  Entry time:80 Exit time:162667
+[pid 8]: Exit called. Maxburst:124 Minburst:0 Totalburst:9712 No. of bursts:141
+[pid 8]: Exit called. Totalsleeptime:0 TotalWaitTime:152875 Utilization:5
+[pid 9]: Exit called. Code: 0 No. of Instructions:8253  Entry time:90 Exit time:162777
+[pid 9]: Exit called. Maxburst:124 Minburst:0 Totalburst:9712 No. of bursts:141
+[pid 9]: Exit called. Totalsleeptime:0 TotalWaitTime:152975 Utilization:5
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Scheduling Algo = 3 TimerTicks = 124
+Ticks: total 162777, idle 65657, system 14600, user 82520
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 742
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+Total Number of Processes= 10
+Total CPU Burst Time : 97010
+Total Execution time : 162777
+CPU Utilization :59
+CPU BURST: Max. CPU burst is :124, Min. CPU burst is :0, Avg. CPU burst is :69 and Number of bursts is:1402
+Average Waiting Time is :161589
+Completion Time: Maximum= 162687  Minimum= 155997 Average= 16277  Variance= 73835869
+ Estimation error  is :0.000000
+
+Cleaning up...

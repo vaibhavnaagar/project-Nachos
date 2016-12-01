@@ -1,0 +1,6 @@
+1
+../test/printtest 100
+../test/vectorsum 40
+../test/matmult 20
+../test/forkjoin 50
+../test/forkjoin_hard 100
